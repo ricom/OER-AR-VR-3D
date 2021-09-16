@@ -1,11 +1,23 @@
-# Test
+<!--
+author:   Your Name
 
-asfsdaf
+email:    your@mail.org
 
-<div id="h5p-container">sdafds</div>
+version:  0.0.1
 
-<lia-keep>
-<script>
-alert(1);
-</script>
-</lia-keep>
+language: en
+
+narrator: US English Female
+
+comment:  Try to write a short comment about
+          your course, multiline is also okay.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   /scripts/index.js
+
+translation: Deutsch  translations/German.md
+
+translation: Français translations/French.md
+-->
+# test

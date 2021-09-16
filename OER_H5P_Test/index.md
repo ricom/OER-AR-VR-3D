@@ -1,4 +1,18 @@
 # Test
 
+asfsdaf
 
-<iframe src="https://h5p.org/h5p/embed/267089" width="500" height="500" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="[DialogCards] train irregular verbs (german &gt; english)"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<div id="h5p-container">sdafds</div>
+
+<lia-keep>
+<script type="text/javascript" src="assets/main.bundle.js"></script>
+<script>
+const el = document.getElementById('h5p-container');
+const options = {
+h5pJsonPath:  '/h5p-folder',
+frameJs: '/assets/frame.bundle.js',
+frameCss: '/assets/styles/h5p.css',
+}
+new H5PStandalone.H5P(el, options);
+</script>
+</lia-keep>
